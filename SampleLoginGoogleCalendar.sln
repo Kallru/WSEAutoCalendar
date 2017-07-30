@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleLoginGoogleCalendar", "SampleLoginGoogleCalendar.csproj", "{52C72078-01E5-4C2D-AC5D-EF516D458640}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleLoginGoogleCalendar", "SampleLoginGoogleCalendar\SampleLoginGoogleCalendar.csproj", "{52C72078-01E5-4C2D-AC5D-EF516D458640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAutoLoginWSE", "..\SampleAutoLoginWSE\SampleAutoLoginWSE.csproj", "{6641E92A-4A3D-4E8E-86B9-667F3681567A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAutoLoginWSE", "SampleAutoLoginWSE\SampleAutoLoginWSE.csproj", "{6641E92A-4A3D-4E8E-86B9-667F3681567A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
